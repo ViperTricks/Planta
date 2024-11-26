@@ -1,0 +1,150 @@
+{
+  "listItem": [
+    {
+      "id": 1,
+      "img": "spider_plant",
+      "name": "Spider Plant",
+      "preference": "Ưa bóng",
+      "price": 250000
+    },
+    {
+      "id": 2,
+      "img": "song_of_India",
+      "name": "Song of India",
+      "preference": "Ưa sáng",
+      "price": 250000
+    },
+    {
+      "id": 3,
+      "img": "pink_anthurium",
+      "name": "Pink Anthurium",
+      "preference": "Ưa bóng",
+      "price": 250000
+    },
+    {
+      "id": 4,
+      "img": "black_love_anthurium",
+      "name": "Black Love Anthurium",
+      "preference": "Ưa bóng",
+      "price": 250000
+    },
+    {
+      "id": 5,
+      "img": "grey_star_calarthe",
+      "name": "Grey Start Calarthea",
+      "preference": "Ưa sáng",
+      "price": 250000
+    },
+    {
+      "id": 6,
+      "img": "banana_plant",
+      "name": "Banana Plant",
+      "preference": "Ưa sáng",
+      "price": 250000
+    },
+    {
+      "id": 7,
+      "img": "zz_plant",
+      "name": "ZZ Plant",
+      "preference": "Ưa bóng",
+      "price": 250000
+    },
+    {
+      "id": 8,
+      "img": "palm",
+      "name": "Palm",
+      "preference": "Ưa bóng",
+      "price": 250000
+    },
+    {
+      "id": 9,
+      "img": "devils_ivy",
+      "name": "Devil's Ivy",
+      "preference": "Ưa bóng",
+      "price": 250000
+    },
+    {
+      "id": 10,
+      "img": "sago_palm",
+      "name": "Sago Palm",
+      "preference": "Ưa sáng",
+      "price": 250000
+    }
+  ],
+  "listPlanter": [
+    {
+      "id": 1,
+      "img": "planta_trang",
+      "name": "Planta Trắng",
+      "price": 250000
+    },
+    {
+      "id": 2,
+      "img": "planta_lemon_balm",
+      "name": "Planta Lemon Balm",
+      "price": 250000
+    },
+    {
+      "id": 3,
+      "img": "planta_rosewood",
+      "name": "Planta Rosewood",
+      "price": 250000
+    },
+    {
+      "id": 4,
+      "img": "planta_dove_grey",
+      "name": "Planta Dove Grey",
+      "price": 250000
+    },
+    {
+      "id": 5,
+      "img": "planta_den",
+      "name": "Planta Đen",
+      "price": 250000
+    },
+    {
+      "id": 6,
+      "img": "planta_matte_black",
+      "name": "Planta Matte Black",
+      "price": 250000
+    }
+  ],
+  "listTool": [
+    {
+      "id": 1,
+      "img": "sierra_nho",
+      "name": "Bình tưới Sierra nhỏ",
+      "price": 250000
+    },
+    {
+      "id": 2,
+      "img": "sierra_lon",
+      "name": "Bình tưới Sierra lớn",
+      "price": 250000
+    },
+    {
+      "id": 3,
+      "img": "cb2_saic",
+      "name": "Bình tưới CB2 SAIC",
+      "price": 250000
+    },
+    {
+      "id": 4,
+      "img": "xiaoda",
+      "name": "Bình xịt Xiaoda",
+      "price": 250000
+    },
+    {
+      "id": 5,
+      "img": "cuoc_xeng_mini",
+      "name": "Bộ cuốc xẻng mini",
+      "price": 250000
+    },
+    {
+      "id": 6,
+      "img": "finn_terrazzo",
+      "name": "Giá đỡ Finn Terrazzo",
+      "price": 250000
+    }
+  ]
+}
